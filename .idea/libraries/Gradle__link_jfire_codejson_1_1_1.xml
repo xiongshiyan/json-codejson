@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: link.jfire:codejson:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/link.jfire/codejson/1.1.1/b630e2ae32feb756bb10bf7f70008fb8c0c4a71d/codejson-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/link.jfire/codejson/1.1.1/28039e51986b02663194c8db33e64cac61657697/codejson-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
